@@ -143,6 +143,7 @@ The following resources provide other related information:
 | U+00B9      | onesuperior          | SUPERSCRIPT ONE                                     |         | 241      |
 | U+00BA      | ordmasculine         | MASCULINE ORDINAL INDICATOR                         | 0xbc    | 158      |
 | U+00BB      | guillemotright       | RIGHT GUILLEMET                                     | 0xc8    | 170      |
+|             |                      |                                                     |         |          |
 | U+00BC      | onequarter           | VULGAR FRACTION ONE QUARTER                         |         | 245      |
 | U+00BD      | onehalf              | VULGAR FRACTION ONE HALF                            |         | 244      |
 | U+00BE      | threequarters        | VULGAR FRACTION THREE QUARTERS                      |         | 246      |
@@ -338,6 +339,7 @@ The following resources provide other related information:
 | U+017C      | zdotaccent           | LATIN SMALL LETTER Z WITH DOT ABOVE                 |         |          |
 | U+017D      | Zcaron               | LATIN CAPITAL LETTER Z WITH HACEK                   |         | 230      |
 | U+017E      | zcaron               | LATIN SMALL LETTER Z WITH HACEK                     |         | 231      |
+|             |                      |                                                     |         |          |
 | U+017F      | longs                | LATIN SMALL LETTER LONG S                           |         |          |
 | U+0192      | florin               | LATIN SMALL LETTER SCRIPT F,FLORIN SIGN             | 0xc4    | 166      |
 | U+01FA      | Aringacute           | LATIN CAPITAL LETTER A WITH RING ABOVE AND ACUTE    |         |          |
@@ -533,6 +535,7 @@ The following resources provide other related information:
 | U+1E85      | wdieresis            | LATIN SMALL LETTER W WITH DIAERESIS                 |         |          |
 | U+1EF2      | Ygrave               | LATIN CAPITAL LETTER Y WITH GRAVE                   |         |          |
 | U+1EF3      | ygrave               | LATIN SMALL LETTER Y WITH GRAVE                     |         |          |
+|             |                      |                                                     |         |          |
 | U+2013      | endash               | EN DASH                                             | 0xd0    | 178      |
 | U+2014      | emdash               | EM DASH                                             | 0xd1    | 179      |
 | U+2015      | afii00208            | HORIZONTAL BAR                                      |         |          |
