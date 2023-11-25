@@ -678,7 +678,7 @@ The following resources provide other related information:
 
 [^1]: This glyph name is also used for another Unicode value listed in
 this document. If a separate design for this glyph is desired, it may
-be given a uni<CODE> glyph name, where <CODE> is a 4-digit uppercase
+be given a uni\<CODE\> glyph name, where \<CODE\> is a 4-digit uppercase
 hexadecimal number that indicates the Unicode value.
 
 For example, if different designs are desired for MICRO SIGN (U+00B5)
@@ -714,7 +714,3 @@ I can tell are the normative specification:
 -   [Unicode range U+017F through U+1EF3](https://learn.microsoft.com/en-us/typography/develop/wgl4d)
 
 -   [Unicode range U+2013 through U+FB02](https://learn.microsoft.com/en-us/typography/develop/wgl4e)
-
-
-
-
